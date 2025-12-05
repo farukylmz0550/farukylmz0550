@@ -37,7 +37,7 @@
 
 ### 🌍 Socials
 - **YouTube:** @FarukYlmz0550  
-- **LinkedIn:** (fix your link)
+- [Linkedin](https://www.linkedin.com/in/faruk-y%C4%B1lmaz-533b85338/)
 
 ---
 
