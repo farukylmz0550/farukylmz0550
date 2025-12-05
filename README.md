@@ -13,10 +13,11 @@
 ---
 
 ### 🎧 What I'm Into
+
+- Maker
 - Arduino & microcontroller projects  
 - Raspberry Pi tinkering  
-- Home server setups (Jellyfin, Pi-Hole, Home Assistant)  
-- Python when my brain decides to cooperate  
+- Home server setups (Jellyfin, Pi-Hole, Home Assistant)
 - Music + random creative ideas
 
 ---
