@@ -16,7 +16,7 @@
 
 - Maker
 - Arduino & microcontroller projects  
-- Raspberry Pi tinkering  
+- Tinkering (Only those things that interest me.)
 - Home server setups (Jellyfin, Pi-Hole, Home Assistant)
 - Music + random creative ideas
 
@@ -36,24 +36,13 @@
 
 ---
 
-### 🌍 Socials
-<a href="https://www.youtube.com/@FarukYlmz0550" target="_blank">
-  <img src="https://commons.wikimedia.org/wiki/File:YouTube_social_white_circle_(2017).svg" 
-       alt="YouTube" 
-       height="40">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/faruk-y%C4%B1lmaz-533b85338/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
-       alt="LinkedIn" 
-       height="40">
-  
-- 
-
+### “🧪 What I’m Breaking Now
+-  [Magnetic Modular Boom Arm](https://github.com/farukylmz0550/Magnetic-Modular-Boom-Arm)
+ 
 ---
 
 ### ✨ Fun Fact
-I wear glasses but still stare at screens like I have a spare pair of eyes somewhere.
+I wear glasses, I'am High School student, my favorite animal owl🦉
 
 ---
 
