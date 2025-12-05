@@ -1,14 +1,53 @@
-# 💫 About Me:
-Fun Fact: I wear glasses<br>I learning anything<br>My native language Turkish
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="70" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@FarukYlmz0550) 
+<br>
 
-# 💻 Tech Stack:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">👋 Hey, I'm Faruk</h2>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=farukylmz0550&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  Maker, tinkerer, hardware enjoyer.<br>
+  I build stuff, break stuff, fix stuff. Mostly in that order.
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🎧 What I'm Into
+- Arduino & microcontroller projects  
+- Raspberry Pi tinkering  
+- Home server setups (Jellyfin, Pi-Hole, Home Assistant)  
+- Python when my brain decides to cooperate  
+- Music + random creative ideas
+
+---
+
+### 🛠 Tech I Actually Use
+<div align="left">
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />  
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
+<img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />  
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />  
+<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" />  
+<img src="https://img.shields.io/badge/Jellyfin-000B25?style=for-the-badge&logo=jellyfin&logoColor=00A4DC" />
+
+</div>
+
+---
+
+### 🌍 Socials
+- **YouTube:** @FarukYlmz0550  
+- **LinkedIn:** (fix your link)
+
+---
+
+### ✨ Fun Fact
+I wear glasses but still stare at screens like I have a spare pair of eyes somewhere.
+
+---
+
