@@ -1,18 +1,13 @@
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="70" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="70" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" />
-</div>
-
-<br>
-
 <h2 align="center">👋 Hey, I'm Faruk</h2>
 
 <p align="center">
   Maker, tinkerer, hardware enjoyer.<br>
   I build stuff, break stuff, fix stuff. Mostly in that order.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe%20Coder-Native-purple?style=for-the-badge" />
 </p>
 
 ---
