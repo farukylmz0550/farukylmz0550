@@ -37,7 +37,7 @@
 
 ### 🌍 Socials
 <a href="https://www.youtube.com/@FarukYlmz0550" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/YouTube_dark_logo_2017.svg" 
+  <img src="https://commons.wikimedia.org/wiki/File:YouTube_social_white_circle_(2017).svg" 
        alt="YouTube" 
        height="40">
 </a>
