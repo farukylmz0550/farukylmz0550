@@ -36,8 +36,18 @@
 ---
 
 ### 🌍 Socials
-- **YouTube:** @FarukYlmz0550  
-- [Linkedin](https://www.linkedin.com/in/faruk-y%C4%B1lmaz-533b85338/)
+<a href="https://www.youtube.com/@FarukYlmz0550" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Youtube%28amin%29.png/600px-Youtube%28amin%29.png" 
+       alt="YouTube" 
+       height="40">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/faruk-y%C4%B1lmaz-533b85338/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+       alt="LinkedIn" 
+       height="40">
+  
+- 
 
 ---
 
