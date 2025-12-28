@@ -29,8 +29,6 @@
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
 <img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />  
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />  
-<img src="https://img.shields.io/badge/Home Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" />  
-<img src="https://img.shields.io/badge/Jellyfin-000B25?style=for-the-badge&logo=jellyfin&logoColor=00A4DC" />
 
 </div>
 
