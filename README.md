@@ -17,7 +17,6 @@
 - Maker
 - Arduino & microcontroller projects  
 - Tinkering (Only those things that interest me.)
-- Home server setups (Jellyfin, Pi-Hole, Home Assistant)
 - Music + random creative ideas
 
 ---
