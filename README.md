@@ -38,7 +38,7 @@
 ---
 
 ### ✨ Fun Fact
-I wear glasses, I'am High School student, my favorite animal owl🦉
+I wear glasses, I'am high school student, my favorite animal owl🦉
 
 ---
 
