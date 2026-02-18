@@ -14,9 +14,8 @@
 
 ### 🎧 What I'm Into
 
-- Maker
+- Maker/Thinkerer
 - Arduino & microcontroller projects  
-- Tinkering (Only those things that interest me.)
 - Music + random creative ideas
 
 ---
