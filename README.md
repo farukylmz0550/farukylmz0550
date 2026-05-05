@@ -23,11 +23,10 @@
 ### 🛠 Tech I Actually Use
 <div align="left">
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />  
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />  
-<img src="https://img.shields.io/badge/Raspberry Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />  
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />  
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![CasaOS](https://img.shields.io/badge/CasaOS-005588?style=for-the-badge&logo=&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-FF7A00?style=for-the-badge&logo=&logoColor=white)
 </div>
 
 ---
